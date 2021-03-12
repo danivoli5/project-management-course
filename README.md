@@ -15,3 +15,10 @@ npm run start
 ```
 
 Then open it [locally](http://localhost:3000).
+
+## Contributors:
+
+Nikolay Babkin - [sunspawn](https://github.com/Sunspawn/)
+Ariel Genezya - [arielgel](https://github.com/arielge1)
+Daniel Volinsky - [danivoli5](https://github.com/danivoli5)
+Roni Grekrov - [RonsonGallery](https://github.com/RonsonGallery)
