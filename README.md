@@ -26,4 +26,4 @@ Ariel Genezya - [arielgel](https://github.com/arielge1)
 
 Daniel Volinsky - [danivoli5](https://github.com/danivoli5)
 
-Roni Grekrov - [RonsonGallery](https://github.com/RonsonGallery)
+Roni Gerkerov - [RonsonGallery](https://github.com/RonsonGallery)
