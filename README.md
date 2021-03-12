@@ -1,5 +1,7 @@
 ## Installation
 
+Clone the repository, and then 
+
 Use npm to install the dependencies with 
 
 ```bash
